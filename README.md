@@ -1,7 +1,7 @@
 # CovidFAQs
 A Chatbot created using Dialogflow that answers FAQs related to Covid 19 virus
 
-I have created a Chat box using DialogFlow that answers FAQs of the Covid 19 virus and schedules an appointment for the covid 19 vaccine.
+I have created a Chat bot using DialogFlow that answers FAQs of the Covid 19 virus and schedules an appointment for the covid 19 vaccine.
 
 I have integrated the Chat bot with the Messenger service of the Facebook page: https://www.facebook.com/profile.php?id=100087117322835
 
